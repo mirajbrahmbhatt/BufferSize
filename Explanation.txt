@@ -1,0 +1,3 @@
+Miraj Brahmbhatt
+
+Analysis: For every buffer size entered the larger buffer times have smaller time compared to the smaller buffer size becuase of the constant switch the larger sizes have larger chunks of 'movement' in the OS compared to the smaller sizes requires more 'movement' in the OS becuase of the constant switch. 
